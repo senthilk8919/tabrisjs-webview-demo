@@ -65,7 +65,7 @@ let noNetworkPage = new Composite({
 		});
 	}
 }));
-let website = "https://jobman.uk.tempcloudsite.com/";//"http://192.168.43.252:9000/";//https://jobman.uk.tempcloudsite.com
+let website = "http://www.skynetsoftware.tk/";//"http://192.168.43.252:9000/";//https://jobman.uk.tempcloudsite.com
 
 const webView = new WebView({
 	left: 0, right: 0, top: 0, bottom: 0,
